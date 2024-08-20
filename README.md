@@ -16,7 +16,7 @@ This Telegram bot provides users with accurate prayer times based on their count
 
 To run the Prayer Reminder bot locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/prayer-reminder-bot.git`
+1. Clone the repository: `git clone https://github.com/A3zooz/prayer-reminder-bot.git`
 2. Install the required dependencies: `npm install`
 3. Set up your Telegram bot token.
 4. Start the bot: `node bot.js`
